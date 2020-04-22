@@ -1,1 +1,1 @@
-From k8s.gcr.io/metrics-server-amd64:v0.3.7
+From k8s.gcr.io/metrics-server:v0.3.7
